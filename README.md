@@ -18,4 +18,20 @@ We also labeled the fixation prediction dataset Salicon (the 10K training traini
 
 https://drive.google.com/open?id=1NhEdBl7pas0us_BvWsQVll_QtJJVh_JR
 
+# Our Bib:
+
+Please cite our paper if you like our work:
+
+@InProceedings{Scribble_Sal_2020_CVPR, 
+
+  author = {Jing Zhang, Xin Yu, Aixuan Li, Peipei Song, Bowen Liu, Yuchao Dai},
+  title = {Weakly-Supervised Salient Object Detection via Scribble Annotations},
+  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2020} 
+  
+}
+
+# Contact
+
+Please drop me an email for further problems or discussion: zjnwpu@gmail.com
 
