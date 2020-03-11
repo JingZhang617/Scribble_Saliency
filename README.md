@@ -1,9 +1,9 @@
 # Scribble_Saliency (CVPR2020)
-Weakly-Supervised Salient Object Detection via Scribble Annotations
+Weakly-Supervised Salient Object Detection via Scribble Annotations (code will be released soon)
 
 ![alt text](./overview.png)
 
-# Scribble Dataset
+# Scribble Dataset (S-DUTS Dataset)
 We manually labeled the benchmark saliency dataset DUTS with scribble, and provided three versions of scribble annotations with thin scribbles and wider scribbles (salient foreground region: 1, background region: 2, unknown pixels: 0):
 
 1) thin scribbles:
@@ -32,7 +32,7 @@ https://drive.google.com/open?id=11rPRBzqxdRz0zHYax995uvzQsZmTR4A7
 
 # Our Bib:
 
-Please cite our paper if you like our work:
+Please cite our paper if necessary:
 
 @InProceedings{Scribble_Sal_2020_CVPR, 
 
