@@ -34,13 +34,11 @@ https://drive.google.com/open?id=11rPRBzqxdRz0zHYax995uvzQsZmTR4A7
 
 Please cite our paper if necessary:
 
-@InProceedings{Scribble_Sal_2020_CVPR, 
-
-  author = {Jing Zhang, Xin Yu, Aixuan Li, Peipei Song, Bowen Liu, Yuchao Dai},
-  title = {Weakly-Supervised Salient Object Detection via Scribble Annotations},
-  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year = {2020} 
-  
+@inproceedings{jing2020weakly,
+  title={Weakly-Supervised Salient Object Detection via Scribble Annotations},
+  author={Zhang, Jing and Yu, Xin and Li, Aixuan and Song, Peipei and Liu, Bowen and Dai, Yuchao},
+  booktitle=cvpr,
+  year={2020}
 }
 
 # Contact
