@@ -8,6 +8,10 @@ Install Pytorch
 
 # Trained Model
 
+Please download the trained model and put it in "models"
+
+https://drive.google.com/file/d/19mco_WjMAK7OKDMklxTrzot7wWhfSsr1/view?usp=sharing
+
 # Train Model
 
 1) Prepare data for training (We provided the related data in the "data" folder)
@@ -18,13 +22,13 @@ Install Pytorch
 
   c) Convert RGB image to gray image with matlab code: convert_rgb2gray.m
 
-2) run ./train.py
+2) Run ./train.py
 
 # Test Model
 
 1) Modify the testing image path accordingly.
 
-2)run ./test.py
+2) Run ./test.py
 
 
 # Scribble Dataset (S-DUTS Dataset)
