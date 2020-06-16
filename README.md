@@ -16,11 +16,11 @@ https://drive.google.com/file/d/19mco_WjMAK7OKDMklxTrzot7wWhfSsr1/view?usp=shari
 
 1) Prepare data for training (We provided the related data in: https://drive.google.com/file/d/15uasGpd6fRUtpwo21LovFtzZBUh0zHF0/view?usp=sharing. Please download it and put it in the "data" folder)
 
-  a) We have scribble dataset (1: foreground, 2: background, 0: unknown), raw RGB images, gray images and edge map from:https://github.com/yun-liu/rcf.
+          a) We have scribble dataset (1: foreground, 2: background, 0: unknown), raw RGB images, gray images and edge map from:https://github.com/yun-liu/rcf.
 
-  b) Convert scribble data to "gt" and "mask" with matlab code: generate_gt_mask_from_scribble.m, where gt contains forergound scribble(s), and mask contains both foreground and background scribble(s).
+          b) Convert scribble data to "gt" and "mask" with matlab code: generate_gt_mask_from_scribble.m, where gt contains forergound scribble(s), and mask contains both foreground and background scribble(s).
 
-  c) Convert RGB image to gray image with matlab code: convert_rgb2gray.m
+          c) Convert RGB image to gray image with matlab code: convert_rgb2gray.m
 
 2) Run ./train.py
 
