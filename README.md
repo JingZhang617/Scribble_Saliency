@@ -3,6 +3,29 @@ Weakly-Supervised Salient Object Detection via Scribble Annotations (code will b
 
 ![alt text](./overview.png)
 
+# Setup
+Install Pytorch
+
+# Trained Model
+
+# Train Model
+1) Prepare data for training (We provided the related data in the "data" folder)
+
+We have scribble dataset (1: foreground, 2: background, 0: unknown), raw RGB images, gray images and edge map from:https://github.com/yun-liu/rcf.
+
+Convert scribble data to "gt" and "mask" with matlab code: generate_gt_mask_from_scribble.m, where gt contains forergound scribble(s), and mask contains both foreground and background scribble(s).
+
+Convert RGB image to gray image with matlab code: convert_rgb2gray.m
+
+2) run ./train.py
+
+# Test Model
+
+1) Modify the testing image path accordingly.
+
+2)run ./test.py
+
+
 # Scribble Dataset (S-DUTS Dataset)
 We manually labeled the benchmark saliency dataset DUTS with scribble, and provided three versions of scribble annotations with thin scribbles and wider scribbles (salient foreground region: 1, background region: 2, unknown pixels: 0):
 
