@@ -32,6 +32,9 @@ https://drive.google.com/file/d/19mco_WjMAK7OKDMklxTrzot7wWhfSsr1/view?usp=shari
 
 
 # Scribble Dataset (S-DUTS Dataset)
+
+![alt text](./scribble_show.png)
+
 We manually labeled the benchmark saliency dataset DUTS with scribble, and provided three versions of scribble annotations with thin scribbles and wider scribbles (salient foreground region: 1, background region: 2, unknown pixels: 0):
 
 1) thin scribbles:
