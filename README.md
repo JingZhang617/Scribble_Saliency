@@ -58,7 +58,7 @@ https://drive.google.com/open?id=1NhEdBl7pas0us_BvWsQVll_QtJJVh_JR
 
 We provide saliency maps of our model on seven benchmark saliency dataset (DUT, DUTS, ECSSD, HKU-IS, PASCAL-S, SOD, THUR) as below:
 
-https://drive.google.com/open?id=1Y1R-LgxszoqWmo56SWVozW7S03z69W1a
+https://drive.google.com/file/d/1njRCKDk89SX-um4aYN7vUV8ex05sI9ir/view?usp=sharing
 
 # Benchmark Testing Dataset (DUT, DUTS, ECSSD, HKU-IS, PASCAL-S, SOD, THUR):
 
